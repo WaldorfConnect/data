@@ -73,6 +73,6 @@ ID,Country,State,School,StateAssocID,ParentGroupID
 72,DE,BW,Freie Waldorfschule Vaihingen/Enz,NULL,NULL
 73,DE,BW,Freie Waldorfschule Villingen-Schwenningen,NULL,NULL
 74,DE,BW,Freie Waldorfschule Wangen,NULL,NULL
-75,DE,BW,Talander Schulgemeinschaft,NULL
-76,DE,BW,Freie Waldorfschule Engelberg,NULL
-77,DE,BW,Freie Waldorfschule Überlingen,NULL
+75,DE,BW,Talander Schulgemeinschaft,NULL,NULL
+76,DE,BW,Freie Waldorfschule Engelberg,NULL,NULL
+77,DE,BW,Freie Waldorfschule Überlingen,NULL,NULL
