@@ -1,22 +1,22 @@
-State,School
-BY,Freie Waldorfschule Augsburg
-BY,Freie Waldorfschule Chiemgau
-BY,Rudolf-Steiner-Schule Coburg
-BY,Freie Waldorfschule Erlangen
-BY,Rudolf-Steiner-Schule Gröbenzell
-BY,Freie Waldorfschule in den Mainauen
-BY,Freie Waldorfschule Hof
-BY,Freie Waldorfschule Isartal in Geretsried
-BY,Rudolf-Steiner-Schule Ismaning
-BY,Freie Waldorfschule Landsberg
-BY,Freie Waldorfschule Landshut
-BY,Rudolf-Steiner-Schule München-Daglfing
-BY,Rudolf-Steiner-Schule München-Schwabing
-BY,Freie Waldorfschule München-Südwest
-BY,Rudolf-Steiner-Schule Nürnberg
-BY,Freie Waldorfschule Regensburg
-BY,Freie Waldorfschule Rosenheim
-BY,Freie Waldorfschule Weilheim
-BY,Freie Waldorfschule Wendelstein
-BY,Freie Grund- und Mittelschule Wernstein
-BY,Freie Waldorfschule Würzburg
+ID,State,School,StateAssocID
+1,BY,Freie Waldorfschule Augsburg,1020
+2,BY,Freie Waldorfschule Chiemgau,NULL
+3,BY,Rudolf-Steiner-Schule Coburg,NULL
+4,BY,Freie Waldorfschule Erlangen,NULL
+5,BY,Rudolf-Steiner-Schule Gröbenzell,NULL
+6,BY,Freie Waldorfschule in den Mainauen,NULL
+7,BY,Freie Waldorfschule Hof,NULL
+8,BY,Freie Waldorfschule Isartal in Geretsried,NULL
+9,BY,Rudolf-Steiner-Schule Ismaning,NULL
+10,BY,Freie Waldorfschule Landsberg,NULL
+11,BY,Freie Waldorfschule Landshut,NULL
+12,BY,Rudolf-Steiner-Schule München-Daglfing,NULL
+13,BY,Rudolf-Steiner-Schule München-Schwabing,NULL
+14,BY,Freie Waldorfschule München-Südwest,NULL
+15,BY,Rudolf-Steiner-Schule Nürnberg,NULL
+16,BY,Freie Waldorfschule Regensburg,NULL
+17,BY,Freie Waldorfschule Rosenheim,NULL
+18,BY,Freie Waldorfschule Weilheim,NULL
+19,BY,Freie Waldorfschule Wendelstein,NULL
+20,BY,Freie Grund- und Mittelschule Wernstein,NULL
+21,BY,Freie Waldorfschule Würzburg,NULL
