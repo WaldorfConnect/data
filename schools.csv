@@ -1,22 +1,22 @@
-ID,State,School,StateAssocID
-1,BY,Freie Waldorfschule Augsburg,1020
-2,BY,Freie Waldorfschule Chiemgau,NULL
-3,BY,Rudolf-Steiner-Schule Coburg,NULL
-4,BY,Freie Waldorfschule Erlangen,NULL
-5,BY,Rudolf-Steiner-Schule Gröbenzell,NULL
-6,BY,Freie Waldorfschule in den Mainauen,NULL
-7,BY,Freie Waldorfschule Hof,NULL
-8,BY,Freie Waldorfschule Isartal in Geretsried,NULL
-9,BY,Rudolf-Steiner-Schule Ismaning,NULL
-10,BY,Freie Waldorfschule Landsberg,NULL
-11,BY,Freie Waldorfschule Landshut,NULL
-12,BY,Rudolf-Steiner-Schule München-Daglfing,NULL
-13,BY,Rudolf-Steiner-Schule München-Schwabing,NULL
-14,BY,Freie Waldorfschule München-Südwest,NULL
-15,BY,Rudolf-Steiner-Schule Nürnberg,NULL
-16,BY,Freie Waldorfschule Regensburg,NULL
-17,BY,Freie Waldorfschule Rosenheim,NULL
-18,BY,Freie Waldorfschule Weilheim,NULL
-19,BY,Freie Waldorfschule Wendelstein,NULL
-20,BY,Freie Grund- und Mittelschule Wernstein,NULL
-21,BY,Freie Waldorfschule Würzburg,NULL
+ID,Country,State,School,StateAssocID
+1,DE,BY,Freie Waldorfschule Augsburg,1020
+2,DE,BY,Freie Waldorfschule Chiemgau,NULL
+3,DE,BY,Rudolf-Steiner-Schule Coburg,NULL
+4,DE,BY,Freie Waldorfschule Erlangen,NULL
+5,DE,BY,Rudolf-Steiner-Schule Gröbenzell,NULL
+6,DE,BY,Freie Waldorfschule in den Mainauen,NULL
+7,DE,BY,Freie Waldorfschule Hof,NULL
+8,DE,BY,Freie Waldorfschule Isartal in Geretsried,NULL
+9,DE,BY,Rudolf-Steiner-Schule Ismaning,NULL
+10,DE,BY,Freie Waldorfschule Landsberg,NULL
+11,DE,BY,Freie Waldorfschule Landshut,NULL
+12,DE,BY,Rudolf-Steiner-Schule München-Daglfing,NULL
+13,DE,BY,Rudolf-Steiner-Schule München-Schwabing,NULL
+14,DE,BY,Freie Waldorfschule München-Südwest,NULL
+15,DE,BY,Rudolf-Steiner-Schule Nürnberg,NULL
+16,DE,BY,Freie Waldorfschule Regensburg,NULL
+17,DE,BY,Freie Waldorfschule Rosenheim,NULL
+18,DE,BY,Freie Waldorfschule Weilheim,NULL
+19,DE,BY,Freie Waldorfschule Wendelstein,NULL
+20,DE,BY,Freie Grund- und Mittelschule Wernstein,NULL
+21,DE,BY,Freie Waldorfschule Würzburg,NULL
