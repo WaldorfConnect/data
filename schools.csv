@@ -1,78 +1,78 @@
-ID,Country,State,School,StateAssocID
-1,DE,BY,Freie Waldorfschule Augsburg,1020
-2,DE,BY,Freie Waldorfschule Chiemgau,NULL
-3,DE,BY,Rudolf-Steiner-Schule Coburg,NULL
-4,DE,BY,Freie Waldorfschule Erlangen,NULL
-5,DE,BY,Rudolf-Steiner-Schule Gröbenzell,NULL
-6,DE,BY,Freie Waldorfschule in den Mainauen,NULL
-7,DE,BY,Freie Waldorfschule Hof,NULL
-8,DE,BY,Freie Waldorfschule Isartal in Geretsried,NULL
-9,DE,BY,Rudolf-Steiner-Schule Ismaning,NULL
-10,DE,BY,Freie Waldorfschule Landsberg,NULL
-11,DE,BY,Freie Waldorfschule Landshut,NULL
-12,DE,BY,Rudolf-Steiner-Schule München-Daglfing,NULL
-13,DE,BY,Rudolf-Steiner-Schule München-Schwabing,NULL
-14,DE,BY,Freie Waldorfschule München-Südwest,NULL
-15,DE,BY,Rudolf-Steiner-Schule Nürnberg,NULL
-16,DE,BY,Freie Waldorfschule Regensburg,NULL
-17,DE,BY,Freie Waldorfschule Rosenheim,NULL
-18,DE,BY,Freie Waldorfschule Weilheim,NULL
-19,DE,BY,Freie Waldorfschule Wendelstein,NULL
-20,DE,BY,Freie Grund- und Mittelschule Wernstein,NULL
-21,DE,BY,Freie Waldorfschule Würzburg,NULL
-22,DE,BW,Freie Waldorfschule Aalen,NULL
-23,DE,BW,Freie Waldorfschule Backnang,NULL
-24,DE,BW,Freie Waldorfschule Balingen-Frommern,NULL
-25,DE,BW,Freie Waldorfschule Biberach,NULL
-26,DE,BW,Freie Waldorfschule Böblingen,NULL
-27,DE,BW,Freie Waldorfschule Calw,NULL
-28,DE,BW,Freie Waldorfschule Crailsheim,NULL
-29,DE,BW,Freie Waldorfschule Dachsberg,NULL
-30,DE,BW,Freie Waldorfschule Emmendingen,NULL
-31,DE,BW,Freie Waldorfschule auf der Alb,NULL
-32,DE,BW,Freie Waldorfschule Esslingen,NULL
-33,DE,BW,Freie Waldorfschule Gutenhalde,NULL
-34,DE,BW,Michael-Schule Freiburg,NULL
-35,DE,BW,Freie Waldorfschule Freiburg-Rieselfeld,NULL
-36,DE,BW,Freie Waldorfschule Freiburg St. Georgen,NULL
-37,DE,BW,Freie Waldorfschule Freiburg-Wiehre,NULL
-38,DE,BW,Freie Waldorfschule Freudenstadt,NULL
-39,DE,BW,Freie Waldorfschule Filstal,NULL
-40,DE,BW,Freie Waldorfschule Heidelberg,NULL
-41,DE,BW,Freie Waldorfschule Heidenheim,NULL
-42,DE,BW,Freie Waldorfschule Heilbronn,NULL
-43,DE,BW,Freie Waldorfschule Karlsruhe,NULL
-44,DE,BW,Karl Stockmeyer Schule,NULL
-45,DE,BW,Freie Waldorfschule Kirchheim Teck,NULL
-46,DE,BW,Schule am Belchen,NULL
-47,DE,BW,Freie Waldorfschule Konstanz,NULL
-48,DE,BW,Freie Waldorfschule Ludwigsburg,NULL
-49,DE,BW,Freie Waldorfschule Lörrach,NULL
-50,DE,BW,Odilienschule,NULL
-51,DE,BW,Freie Waldorfschule Mannheim,NULL
-52,DE,BW,Freie Interkulturelle Waldorfschule Mannheim,NULL
-53,DE,BW,Freie Waldorfschule Markgräflerland,NULL
-54,DE,BW,Rudolf Steiner Schule Nürtingen,NULL
-55,DE,BW,Freie Waldorfschule Offenburg,NULL
-56,DE,BW,Freie Waldorfschule Pforzheim,NULL
-57,DE,BW,Freie Waldorfschule Rastatt,NULL
-58,DE,BW,Freie Waldorfschule Ravensburg,NULL
-59,DE,BW,Freie Waldorfschule Reutlingen,NULL
-60,DE,BW,Freie Waldorfschule Rottweil,NULL
-61,DE,BW,Freie Waldorfschule Schopfheim,NULL
-62,DE,BW,Freie Waldorfschule Schwäbisch Gmünd,NULL
-63,DE,BW,Freie Waldorfschule Wahlwies,NULL
-64,DE,BW,Freie Waldorfschule am Kräherwald,NULL
-65,DE,BW,Karl-Schubert-Schule,NULL
-66,DE,BW,Michael Bauer Schule,NULL
-67,DE,BW,Waldorfschule Silberwald,NULL
-68,DE,BW,Freie Waldorfschule Uhlandshöhe,NULL
-69,DE,BW,Freie Waldorfschule Tübingen,NULL
-70,DE,BW,Freie Waldorfschule Ulm,NULL
-71,DE,BW,Freie Waldorfschule am Illerblick,NULL
-72,DE,BW,Freie Waldorfschule Vaihingen/Enz,NULL
-73,DE,BW,Freie Waldorfschule Villingen-Schwenningen,NULL
-74,DE,BW,Freie Waldorfschule Wangen,NULL
+ID,Country,State,School,StateAssocID,ParentGroupID
+1,DE,BY,Freie Waldorfschule Augsburg,1020,1
+2,DE,BY,Freie Waldorfschule Chiemgau,NULL,1
+3,DE,BY,Rudolf-Steiner-Schule Coburg,NULL,1
+4,DE,BY,Freie Waldorfschule Erlangen,NULL,1
+5,DE,BY,Rudolf-Steiner-Schule Gröbenzell,NULL,1
+6,DE,BY,Freie Waldorfschule in den Mainauen,NULL,1
+7,DE,BY,Freie Waldorfschule Hof,NULL,1
+8,DE,BY,Freie Waldorfschule Isartal in Geretsried,NULL,1
+9,DE,BY,Rudolf-Steiner-Schule Ismaning,NULL,1
+10,DE,BY,Freie Waldorfschule Landsberg,NULL,1
+11,DE,BY,Freie Waldorfschule Landshut,NULL,1
+12,DE,BY,Rudolf-Steiner-Schule München-Daglfing,NULL,1
+13,DE,BY,Rudolf-Steiner-Schule München-Schwabing,NULL,1
+14,DE,BY,Freie Waldorfschule München-Südwest,NULL,1
+15,DE,BY,Rudolf-Steiner-Schule Nürnberg,NULL,1
+16,DE,BY,Freie Waldorfschule Regensburg,NULL,1
+17,DE,BY,Freie Waldorfschule Rosenheim,NULL,1
+18,DE,BY,Freie Waldorfschule Weilheim,NULL,1
+19,DE,BY,Freie Waldorfschule Wendelstein,NULL,1
+20,DE,BY,Freie Grund- und Mittelschule Wernstein,NULL,1
+21,DE,BY,Freie Waldorfschule Würzburg,NULL,1
+22,DE,BW,Freie Waldorfschule Aalen,NULL,NULL
+23,DE,BW,Freie Waldorfschule Backnang,NULL,NULL
+24,DE,BW,Freie Waldorfschule Balingen-Frommern,NULL,NULL
+25,DE,BW,Freie Waldorfschule Biberach,NULL,NULL
+26,DE,BW,Freie Waldorfschule Böblingen,NULL,NULL
+27,DE,BW,Freie Waldorfschule Calw,NULL,NULL
+28,DE,BW,Freie Waldorfschule Crailsheim,NULL,NULL
+29,DE,BW,Freie Waldorfschule Dachsberg,NULL,NULL
+30,DE,BW,Freie Waldorfschule Emmendingen,NULL,NULL
+31,DE,BW,Freie Waldorfschule auf der Alb,NULL,NULL
+32,DE,BW,Freie Waldorfschule Esslingen,NULL,NULL
+33,DE,BW,Freie Waldorfschule Gutenhalde,NULL,NULL
+34,DE,BW,Michael-Schule Freiburg,NULL,NULL
+35,DE,BW,Freie Waldorfschule Freiburg-Rieselfeld,NULL,NULL
+36,DE,BW,Freie Waldorfschule Freiburg St. Georgen,NULL,NULL
+37,DE,BW,Freie Waldorfschule Freiburg-Wiehre,NULL,NULL
+38,DE,BW,Freie Waldorfschule Freudenstadt,NULL,NULL
+39,DE,BW,Freie Waldorfschule Filstal,NULL,NULL
+40,DE,BW,Freie Waldorfschule Heidelberg,NULL,NULL
+41,DE,BW,Freie Waldorfschule Heidenheim,NULL,NULL
+42,DE,BW,Freie Waldorfschule Heilbronn,NULL,NULL
+43,DE,BW,Freie Waldorfschule Karlsruhe,NULL,NULL
+44,DE,BW,Karl Stockmeyer Schule,NULL,NULL
+45,DE,BW,Freie Waldorfschule Kirchheim Teck,NULL,NULL
+46,DE,BW,Schule am Belchen,NULL,NULL
+47,DE,BW,Freie Waldorfschule Konstanz,NULL,NULL
+48,DE,BW,Freie Waldorfschule Ludwigsburg,NULL,NULL
+49,DE,BW,Freie Waldorfschule Lörrach,NULL,NULL
+50,DE,BW,Odilienschule,NULL,NULL
+51,DE,BW,Freie Waldorfschule Mannheim,NULL,NULL
+52,DE,BW,Freie Interkulturelle Waldorfschule Mannheim,NULL,NULL
+53,DE,BW,Freie Waldorfschule Markgräflerland,NULL,NULL
+54,DE,BW,Rudolf Steiner Schule Nürtingen,NULL,NULL
+55,DE,BW,Freie Waldorfschule Offenburg,NULL,NULL
+56,DE,BW,Freie Waldorfschule Pforzheim,NULL,NULL
+57,DE,BW,Freie Waldorfschule Rastatt,NULL,NULL
+58,DE,BW,Freie Waldorfschule Ravensburg,NULL,NULL
+59,DE,BW,Freie Waldorfschule Reutlingen,NULL,NULL
+60,DE,BW,Freie Waldorfschule Rottweil,NULL,NULL
+61,DE,BW,Freie Waldorfschule Schopfheim,NULL,NULL
+62,DE,BW,Freie Waldorfschule Schwäbisch Gmünd,NULL,NULL
+63,DE,BW,Freie Waldorfschule Wahlwies,NULL,NULL
+64,DE,BW,Freie Waldorfschule am Kräherwald,NULL,NULL
+65,DE,BW,Karl-Schubert-Schule,NULL,NULL
+66,DE,BW,Michael Bauer Schule,NULL,NULL
+67,DE,BW,Waldorfschule Silberwald,NULL,NULL
+68,DE,BW,Freie Waldorfschule Uhlandshöhe,NULL,NULL
+69,DE,BW,Freie Waldorfschule Tübingen,NULL,NULL
+70,DE,BW,Freie Waldorfschule Ulm,NULL,NULL
+71,DE,BW,Freie Waldorfschule am Illerblick,NULL,NULL
+72,DE,BW,Freie Waldorfschule Vaihingen/Enz,NULL,NULL
+73,DE,BW,Freie Waldorfschule Villingen-Schwenningen,NULL,NULL
+74,DE,BW,Freie Waldorfschule Wangen,NULL,NULL
 75,DE,BW,Talander Schulgemeinschaft,NULL
 76,DE,BW,Freie Waldorfschule Engelberg,NULL
 77,DE,BW,Freie Waldorfschule Überlingen,NULL
