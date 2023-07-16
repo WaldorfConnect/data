@@ -1,22 +1,23 @@
 ID,Country,School,StateAssocID,ParentGroupID
 1,DE-BY,Freie Waldorfschule Augsburg,1020,1
-2,DE-BY,Freie Waldorfschule Chiemgau,NULL,1
-3,DE-BY,Rudolf-Steiner-Schule Coburg,NULL,1
-4,DE-BY,Freie Waldorfschule Erlangen,NULL,1
-5,DE-BY,Rudolf-Steiner-Schule Gröbenzell,NULL,1
-6,DE-BY,Freie Waldorfschule in den Mainauen,NULL,1
-7,DE-BY,Freie Waldorfschule Hof,NULL,1
-8,DE-BY,Freie Waldorfschule Isartal in Geretsried,NULL,1
-9,DE-BY,Rudolf-Steiner-Schule Ismaning,NULL,1
-10,DE-BY,Freie Waldorfschule Landsberg,NULL,1
-11,DE-BY,Freie Waldorfschule Landshut,NULL,1
-12,DE-BY,Rudolf-Steiner-Schule München-Daglfing,NULL,1
-13,DE-BY,Rudolf-Steiner-Schule München-Schwabing,NULL,1
-14,DE-BY,Freie Waldorfschule München-Südwest,NULL,1
-15,DE-BY,Rudolf-Steiner-Schule Nürnberg,NULL,1
-16,DE-BY,Freie Waldorfschule Regensburg,NULL,1
-17,DE-BY,Freie Waldorfschule Rosenheim,NULL,1
-18,DE-BY,Freie Waldorfschule Weilheim,NULL,1
-19,DE-BY,Freie Waldorfschule Wendelstein,NULL,1
-20,DE-BY,Freie Grund- und Mittelschule Wernstein,NULL,1
-21,DE-BY,Freie Waldorfschule Würzburg,NULL,1
+2,DE-BY,Freie Waldorfschule Chiemgau,1019,1
+3,DE-BY,Rudolf-Steiner-Schule Coburg,1037,1
+4,DE-BY,Freie Waldorfschule Erlangen,1034,1
+5,DE-BY,Rudolf-Steiner-Schule Gröbenzell,1023,1
+6,DE-BY,Freie Waldorfschule in den Mainauen,1045,1
+7,DE-BY,Freie Waldorfschule Hof,1041,1
+8,DE-BY,Freie Waldorfschule Isartal in Geretsried,1048,1
+9,DE-BY,Rudolf-Steiner-Schule Ismaning,1038,1
+10,DE-BY,Freie Waldorfschule Lech-Donau,1049,1
+11,DE-BY,Freie Waldorfschule Landsberg,1035,1
+12,DE-BY,Freie Waldorfschule Landshut,1050,1
+13,DE-BY,Rudolf-Steiner-Schule München-Daglfing,1033,1
+14,DE-BY,Rudolf-Steiner-Schule München-Schwabing,1007,1
+15,DE-BY,Freie Waldorfschule München Südwest,1039,1
+16,DE-BY,Rudolf-Steiner-Schule Nürnberg,1008,1
+17,DE-BY,Freie Waldorfschule Regensburg,1009,1
+18,DE-BY,Freie Waldorfschule Rosenheim,1044,1
+19,DE-BY,Freie Waldorfschule Weilheim,1002,1
+20,DE-BY,Freie Waldorfschule Wendelstein,1042,1
+21,DE-BY,Freie Grund- und Mittelschule Wernstein,1022,1
+22,DE-BY,Freie Waldorfschule Würzburg,1018,1
