@@ -11,7 +11,10 @@ Columns:
 
 - ID (an internal identifier)
 - Country (ISO 3166-2)
-- School (name of the school)
+- Name (name of the school)
+- Address (address of the school)
+- MailManagement (mail address of the school administration/management)
+- MailStudentCouncil (mail address of the school council)
 - StateAssocID (state assosciated identifier, e.g. by the state education board)
 - ParentGroupID (group from `groups.csv` "in charge" of this school)
 
