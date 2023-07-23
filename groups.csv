@@ -1,2 +1,2 @@
-ID,Country,Name
-1,DE-BY,W-LSV Bayern
+dn,country,name,www,mail
+"cn=W-LSV Bayern,ou=DE-BY,ou=groups,ou=active,dc=waldorfconnect,dc=de",DE-BY,W-LSV Bayern,"https://wlsv-bayern.de",bayern@waldorf-lsv.de
