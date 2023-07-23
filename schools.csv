@@ -1,5 +1,5 @@
 DN,Country,Name,Address,MailManagement,MailStudentCouncil,StateAssocID
-cn=FWS Augsburg,ou=DE-BY,ou=schools,ou=active,dc=waldorfconnect,dc=de,DE-BY,Freie Waldorfschule Augsburg,"Dr.-Schmelzing-Straße 52, 86169 Augsburg",info@waldorf-augsburg.de,smv@waldorf-augsburg.de,1020
+"cn=FWS Augsburg,ou=DE-BY,ou=schools,ou=active,dc=waldorfconnect,dc=de",DE-BY,Freie Waldorfschule Augsburg,"Dr.-Schmelzing-Straße 52, 86169 Augsburg",info@waldorf-augsburg.de,smv@waldorf-augsburg.de,1020
 2,DE-BY,Freie Waldorfschule Chiemgau,Bernauer Str. 34//83209 Prien am Chiemsee,post@waldorfschule-chiemgau.de,NULL,1019
 3,DE-BY,Rudolf-Steiner-Schule Coburg,Callenberg 12//96450 Coburg,waldorfschulverein-coburg@t-online.de,NULL,1037
 4,DE-BY,Freie Waldorfschule Erlangen,Rudolf-Steiner-Str. 2//91058 Erlangen,fwe@waldorfschule-erlangen.de,NULL,1034
