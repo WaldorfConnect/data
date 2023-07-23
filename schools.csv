@@ -1,22 +1,22 @@
-ID,Country,Name,Address,MailManagement,MailStudentCouncil,StateAssocID,ParentGroupID
-1,DE-BY,Freie Waldorfschule Augsburg,Dr.-Schmelzing-Straße 52//86169 Augsburg,info@waldorf-augsburg.de,smv@waldorf-augsburg.de,1020,1
-2,DE-BY,Freie Waldorfschule Chiemgau,Bernauer Str. 34//83209 Prien am Chiemsee,post@waldorfschule-chiemgau.de,NULL,1019,1
-3,DE-BY,Rudolf-Steiner-Schule Coburg,Callenberg 12//96450 Coburg,waldorfschulverein-coburg@t-online.de,NULL,1037,1
-4,DE-BY,Freie Waldorfschule Erlangen,Rudolf-Steiner-Str. 2//91058 Erlangen,fwe@waldorfschule-erlangen.de,NULL,1034,1
-5,DE-BY,Rudolf-Steiner-Schule Gröbenzell,Spechtweg 1//82194 Gröbenzell,sekretariat@waldorfschule-groebenzell.de,NULL,1023,1
-6,DE-BY,Freie Waldorfschule in den Mainauen,Am Ziegelbrunn 10//97437 Haßfurt,schulbuero@waldorfschule-hassfurt.de,NULL,1045,1
-7,DE-BY,Freie Waldorfschule Hof,Kolpingshöhe 3//95032 Hof,verwaltung@waldorfschule-hof.de,NULL,1041,1
-8,DE-BY,Freie Waldorfschule Isartal in Geretsried,Malvenweg 2-4//82538 Geretsried,verwaltung@waldorfschule-isartal.de,NULL,1048,1
-9,DE-BY,Rudolf-Steiner-Schule Ismaning,Dorfstraße 77//85737 Ismaning bei München,info@waldorf-ism.de,NULL,1038,1
-10,DE-BY,Freie Waldorfschule Landsberg,Münchener Straße 72//86899 Landsberg,info@waldorf-landsberg.de,NULL,1035,1
-11,DE-BY,Freie Waldorfschule Landshut,Im Spitalfeld 2//84032 Landshut,info@waldorfschule-landshut.de,NULL,1050,1
-12,DE-BY,Rudolf-Steiner-Schule München-Daglfing,Max-Proebstl-Straße 7//81929 München,info@waldorfschule-daglfing.de,NULL,1033,1
-13,DE-BY,Rudolf-Steiner-Schule München-Schwabing,Leopoldstraße 17//80802 München,mail@waldorfschule-schwabing.de,NULL,1007,1
-14,DE-BY,Freie Waldorfschule München Südwest,Züricher Straße 9//81476 München,sekretariat@waldorfschule-msw.de,smv@waldorf-msw.de,1039,1
-15,DE-BY,Rudolf-Steiner-Schule Nürnberg,Steinplattenweg 25//90491 Nürnberg,info@waldorfschule-nuernberg.de,NULL,1008,1
-16,DE-BY,Freie Waldorfschule Regensburg,Unterislinger Weg 32//93053 Regensburg,info@waldorfschule-regensburg.de,NULL,1009,1
-17,DE-BY,Freie Waldorfschule Rosenheim,Mangfallstraße 53//83026 Rosenheim,verwaltung@waldorfschule-rosenheim.de,NULL,1044,1
-18,DE-BY,Freie Waldorfschule Weilheim,Am Bahnhof 6//82386 Huglfing,info@waldorf-weilheim.de,NULL,1002,1
-19,DE-BY,Freie Waldorfschule Wendelstein,In der Gibitzen 49//90530 Wendelstein,info@waldorfschule-wendelstein.de,NULL,1042,1
-20,DE-BY,Freie Grund- und Mittelschule Wernstein,Am Eisweiher 1//95336 Mainleus,info@schule-wernstein.de,NULL,1022,1
-21,DE-BY,Freie Waldorfschule Würzburg,Oberer Neubergweg 14//97074 Würzburg,info@waldorf-wuerzburg.de,svk@waldorf-wuerzburg.de,1018,1
+DN,Country,Name,Address,MailManagement,MailStudentCouncil,StateAssocID
+cn=FWS Augsburg,ou=DE-BY,ou=schools,ou=active,dc=waldorfconnect,dc=de,DE-BY,Freie Waldorfschule Augsburg,"Dr.-Schmelzing-Straße 52, 86169 Augsburg",info@waldorf-augsburg.de,smv@waldorf-augsburg.de,1020
+2,DE-BY,Freie Waldorfschule Chiemgau,Bernauer Str. 34//83209 Prien am Chiemsee,post@waldorfschule-chiemgau.de,NULL,1019
+3,DE-BY,Rudolf-Steiner-Schule Coburg,Callenberg 12//96450 Coburg,waldorfschulverein-coburg@t-online.de,NULL,1037
+4,DE-BY,Freie Waldorfschule Erlangen,Rudolf-Steiner-Str. 2//91058 Erlangen,fwe@waldorfschule-erlangen.de,NULL,1034
+5,DE-BY,Rudolf-Steiner-Schule Gröbenzell,Spechtweg 1//82194 Gröbenzell,sekretariat@waldorfschule-groebenzell.de,NULL,1023
+6,DE-BY,Freie Waldorfschule in den Mainauen,Am Ziegelbrunn 10//97437 Haßfurt,schulbuero@waldorfschule-hassfurt.de,NULL,1045
+7,DE-BY,Freie Waldorfschule Hof,Kolpingshöhe 3//95032 Hof,verwaltung@waldorfschule-hof.de,NULL,1041
+8,DE-BY,Freie Waldorfschule Isartal in Geretsried,Malvenweg 2-4//82538 Geretsried,verwaltung@waldorfschule-isartal.de,NULL,1048
+9,DE-BY,Rudolf-Steiner-Schule Ismaning,Dorfstraße 77//85737 Ismaning bei München,info@waldorf-ism.de,NULL,1038
+10,DE-BY,Freie Waldorfschule Landsberg,Münchener Straße 72//86899 Landsberg,info@waldorf-landsberg.de,NULL,1035
+11,DE-BY,Freie Waldorfschule Landshut,Im Spitalfeld 2//84032 Landshut,info@waldorfschule-landshut.de,NULL,1050
+12,DE-BY,Rudolf-Steiner-Schule München-Daglfing,Max-Proebstl-Straße 7//81929 München,info@waldorfschule-daglfing.de,NULL,1033
+13,DE-BY,Rudolf-Steiner-Schule München-Schwabing,Leopoldstraße 17//80802 München,mail@waldorfschule-schwabing.de,NULL,1007
+14,DE-BY,Freie Waldorfschule München Südwest,Züricher Straße 9//81476 München,sekretariat@waldorfschule-msw.de,smv@waldorf-msw.de,1039
+15,DE-BY,Rudolf-Steiner-Schule Nürnberg,Steinplattenweg 25//90491 Nürnberg,info@waldorfschule-nuernberg.de,NULL,1008
+16,DE-BY,Freie Waldorfschule Regensburg,Unterislinger Weg 32//93053 Regensburg,info@waldorfschule-regensburg.de,NULL,1009
+17,DE-BY,Freie Waldorfschule Rosenheim,Mangfallstraße 53//83026 Rosenheim,verwaltung@waldorfschule-rosenheim.de,NULL,1044
+18,DE-BY,Freie Waldorfschule Weilheim,Am Bahnhof 6//82386 Huglfing,info@waldorf-weilheim.de,NULL,1002
+19,DE-BY,Freie Waldorfschule Wendelstein,In der Gibitzen 49//90530 Wendelstein,info@waldorfschule-wendelstein.de,NULL,1042
+20,DE-BY,Freie Grund- und Mittelschule Wernstein,Am Eisweiher 1//95336 Mainleus,info@schule-wernstein.de,NULL,1022
+21,DE-BY,Freie Waldorfschule Würzburg,Oberer Neubergweg 14//97074 Würzburg,info@waldorf-wuerzburg.de,svk@waldorf-wuerzburg.de,1018
