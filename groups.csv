@@ -1,2 +1,2 @@
-dn,country,name,www,mail
-"cn=W-LSV Bayern,ou=DE-BY,ou=groups,ou=active,dc=waldorfconnect,dc=de",DE-BY,W-LSV Bayern,"https://wlsv-bayern.de",bayern@waldorf-lsv.de
+"id","region_id","name","description"
+"1","1","W-LSV Bayern","Wir sind die Vertretung der Waldorfschüler*innen in Bayern"
