@@ -1,2 +1,3 @@
 "id","name","iso_code","supervisor_group_id"
-"1","Deutschland (Bayern)","DE-BY","1"
+"1","Deutschland (bundesweit)","DE","1"
+"2","Deutschland (Bayern)","DE-BY","3"
