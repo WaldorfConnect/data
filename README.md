@@ -3,6 +3,25 @@
 This repository contains `.csv` files with important data used by our systems.
 > Comma used as delimiter - first line holds column headers
 
+# Image folder
+
+The `img` folder holds all assets image related to database entities. 
+Subfolders are `group` for group related images and `school` for school related images.
+
+The underlying folder structure follows the following scheme:
+
+- `1` (primary key of the entity the images are attached to) 
+  - `logo.png` (The logo of the associated entity)
+  - `image.png` (An immersive picture of the associated entity)
+
+### Disclaimer on copyrights
+
+We can only accept images that were published which are:
+
+- taken by yourself
+- under a free license (e.g. via Wikimedia Commons)
+- rightfully obtained with *written* consent by the author
+
 ## schools.csv
 
 The `schools.csv` contains all schools present in our systems (basically all waldorf-assosciated schools in german-speaking countries)

@@ -1,4 +1,4 @@
-"id","region_id","name","description"
-"1","1","WaldorfConnect","Wir sind das Administrations- und Verwaltungskernteam, das sich um die Bereitstellung und Instandhaltung der Infrastruktur von WaldorfConnect kümmert.<br><br>Wir sind ein offenes Team und freuen uns jederzeit über Zuwachs!"
-"2","1","WaldorfSV",""
-"3","2","W-LSV Bayern","Wir sind die Vertretung der Waldorfschüler*innen in Bayern"
+"id","region_id","name","description","image_author"
+"1","1","WaldorfConnect","Wir sind das Administrations- und Verwaltungskernteam, das sich um die Bereitstellung und Instandhaltung der Infrastruktur von WaldorfConnect kümmert.<br><br>Wir sind ein offenes Team und freuen uns jederzeit über Zuwachs!",NULL
+"2","1","WaldorfSV",,NULL
+"3","3","W-LSV Bayern","Wir sind die Vertretung der Waldorfschüler*innen in Bayern","Niklas Sylla"
