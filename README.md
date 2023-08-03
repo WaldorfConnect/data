@@ -5,7 +5,7 @@ This repository contains `.csv` files with important data used by our systems.
 
 # Image folder
 
-The `img` folder holds all assets image related to database entities. 
+The `img` folder holds all images related to database entities. 
 Subfolders are `group` for group related images and `school` for school related images.
 
 The underlying folder structure follows the following scheme:
@@ -14,13 +14,13 @@ The underlying folder structure follows the following scheme:
   - `logo.png` (The logo of the associated entity)
   - `image.png` (An immersive picture of the associated entity)
 
-### Disclaimer on copyrights
+### Notice on copyright
 
-We can only accept images that were published which are:
+We can only accept images which are either:
 
 - taken by yourself
 - under a free license (e.g. via Wikimedia Commons)
-- rightfully obtained with *written* consent by the author
+- or rightfully obtained with *written* consent by the author
 
 ## schools.csv
 
