@@ -1,22 +1,79 @@
-"id","name","short_name","region_id","address","email_bureau","email_smv","state_id"
-"1","Freie Waldorfschule Augsburg","FWS Augsburg","1","Dr.-Schmelzing-Str. 52, 86169 Augsburg","info@waldorf-augsburg.de","smv@waldorf-augsburg.de","1020"
-"2","Freie Waldorfschule Chiemgau","FWS Chiemgau","1","Bernauer Str. 34, 83209 Prien am Chiemsee","post@waldorfschule-chiemgau.de",NULL,"1019"
-"3","Rudolf-Steiner-Schule Coburg","RSS Coburg","1","Callenberg 12, 96450 Coburg","waldorfschulverein-coburg@t-online.de",NULL,"1037"
-"4","Freie Waldorfschule Erlangen","FWS Erlangen","1","Rudolf-Steiner-Str. 2, 91058 Erlangen","fwe@waldorfschule-erlangen.de",NULL,"1034"
-"5","Rudolf-Steiner-Schule Gröbenzell","RSS Gröbenzell","1","Spechtweg 1, 82194 Gröbenzell","sekretariat@waldorfschule-groebenzell.de",NULL,"1023"
-"6","Freie Waldorfschule in den Mainauen","FWS Mainauen","1","Am Ziegelbrunn 10, 97437 Haßfurt","schulbuero@waldorfschule-hassfurt.de",NULL,"1045"
-"7","Freie Waldorfschule Hof","FWS Hof","1","Kolpingshöhe 3, 95032 Hof","verwaltung@waldorfschule-hof.de",NULL,"1041"
-"8","Freie Waldorfschule Isartal in Geretsried","FWS Isartal","1","Malvenweg 2-4, 82538 Geretsried","verwaltung@waldorfschule-isartal.de",NULL,"1048"
-"9","Rudolf-Steiner-Schule Ismaning","RSS Ismaning","1","Dorfstraße 77, 85737 Ismaning bei München","info@waldorf-ism.de",NULL,"1038"
-"10","Freie Waldorfschule Landsberg","FWS Landsberg","1","Münchener Straße 72, 86899 Landsberg","info@waldorf-landsberg.de",NULL,"1035"
-"11","Freie Waldorfschule Landshut","FWS Landshut","1","Im Spitalfeld 2, 84032 Landshut","info@waldorfschule-landshut.de",NULL,"1050"
-"12","Rudolf-Steiner-Schule München-Daglfing","RSS München-Daglfing","1","Max-Proebstl-Straße 7, 81929 München","info@waldorfschule-daglfing.de",NULL,"1033"
-"13","Rudolf-Steiner-Schule München-Schwabing","RSS München-Schwabing","1","Leopoldstraße 17, 80802 München","mail@waldorfschule-schwabing.de",NULL,"1007"
-"14","Freie Waldorfschule München Südwest","FWS München Südwest","1","Züricher Straße 9, 81476 München","sekretariat@waldorfschule-msw.de","smv@waldorfschule-msw.de","1039"
-"15","Rudolf-Steiner-Schule Nürnberg","RSS Nürnberg","1","Steinplattenweg 25, 90491 Nürnberg","info@waldorfschule-nuernberg.de",NULL,"1008"
-"16","Freie Waldorfschule Regensburg","FWS Regensburg","1","Unterislinger Weg 32, 93053 Regensburg","info@waldorfschule-regensburg.de",NULL,"1009"
-"17","Freie Waldorfschule Rosenheim","FWS Rosenheim","1","Mangfallstraße 53, 83026 Rosenheim","verwaltung@waldorfschule-rosenheim.de",NULL,"1044"
-"18","Freie Waldorfschule Weilheim","FWS Weilheim","1","Am Bahnhof 6, 82386 Huglfing","info@waldorf-weilheim.de",NULL,"1002"
-"19","Freie Waldorfschule Wendelstein","FWS Wendelstein","1","In der Gibitzen 49, 90530 Wendelstein","info@waldorfschule-wendelstein.de",NULL,"1042"
-"20","Freie Grund- und Mittelschule Wernstein","FWS Wernstein","1","Am Eisweiher 1, 95336 Mainleus","info@schule-wernstein.de",NULL,"1022"
-"21","Freie Waldorfschule Würzburg","FWS Würzburg","1","Oberer Neubergweg 14, 97074 Würzburg","info@waldorf-wuerzburg.de","svk@waldorf-wuerzburg.de","1018"
+"id","name","short_name","region_id","address","email_bureau","email_smv","state_id","image_author"
+"1","Freie Waldorfschule Augsburg","FWS Augsburg","3","Dr.-Schmelzing-Str. 52, 86169 Augsburg","info@waldorf-augsburg.de","smv@waldorf-augsburg.de","1020","Linus Groschke, CC BY-SA 4.0, via Wikimedia Commons"
+"2","Freie Waldorfschule Chiemgau","FWS Chiemgau","3","Bernauer Str. 34, 83209 Prien am Chiemsee","post@waldorfschule-chiemgau.de",NULL,"1019","Ricardalovesmonuments, CC BY-SA 4.0, via Wikimedia Commons"
+"3","Rudolf-Steiner-Schule Coburg","RSS Coburg","3","Callenberg 12, 96450 Coburg","waldorfschulverein-coburg@t-online.de",NULL,"1037",NULL
+"4","Freie Waldorfschule Erlangen","FWS Erlangen","3","Rudolf-Steiner-Str. 2, 91058 Erlangen","fwe@waldorfschule-erlangen.de",NULL,"1034",NULL
+"5","Rudolf-Steiner-Schule Gröbenzell","RSS Gröbenzell","3","Spechtweg 1, 82194 Gröbenzell","sekretariat@waldorfschule-groebenzell.de",NULL,"1023",NULL
+"6","Freie Waldorfschule in den Mainauen","FWS Mainauen","3","Am Ziegelbrunn 10, 97437 Haßfurt","schulbuero@waldorfschule-hassfurt.de",NULL,"1045",NULL
+"7","Freie Waldorfschule Hof","FWS Hof","3","Kolpingshöhe 3, 95032 Hof","verwaltung@waldorfschule-hof.de",NULL,"1041","Parpan05, CC BY-SA 3.0, via Wikimedia Commons"
+"8","Freie Waldorfschule Isartal in Geretsried","FWS Isartal","3","Malvenweg 2-4, 82538 Geretsried","verwaltung@waldorfschule-isartal.de",NULL,"1048",NULL
+"9","Rudolf-Steiner-Schule Ismaning","RSS Ismaning","3","Dorfstraße 77, 85737 Ismaning bei München","info@waldorf-ism.de",NULL,"1038","Rudolph Buch, Public domain, via Wikimedia Commons"
+"10","Freie Waldorfschule Landsberg","FWS Landsberg","3","Münchener Straße 72, 86899 Landsberg","info@waldorf-landsberg.de",NULL,"1035",NULL
+"11","Freie Waldorfschule Landshut","FWS Landshut","3","Im Spitalfeld 2, 84032 Landshut","info@waldorfschule-landshut.de",NULL,"1050",NULL
+"12","Rudolf-Steiner-Schule München-Daglfing","RSS München-Daglfing","3","Max-Proebstl-Straße 7, 81929 München","info@waldorfschule-daglfing.de",NULL,"1033",NULL
+"13","Rudolf-Steiner-Schule München-Schwabing","RSS München-Schwabing","3","Leopoldstraße 17, 80802 München","mail@waldorfschule-schwabing.de",NULL,"1007",NULL
+"14","Freie Waldorfschule München Südwest","FWS München Südwest","3","Züricher Straße 9, 81476 München","sekretariat@waldorfschule-msw.de","smv@waldorfschule-msw.de","1039",NULL
+"15","Rudolf-Steiner-Schule Nürnberg","RSS Nürnberg","3","Steinplattenweg 25, 90491 Nürnberg","info@waldorfschule-nuernberg.de",NULL,"1008","HerrMay, CC BY-SA 4.0, via Wikimedia Commons"
+"16","Freie Waldorfschule Regensburg","FWS Regensburg","3","Unterislinger Weg 32, 93053 Regensburg","info@waldorfschule-regensburg.de",NULL,"1009",NULL
+"17","Freie Waldorfschule Rosenheim","FWS Rosenheim","3","Mangfallstraße 53, 83026 Rosenheim","verwaltung@waldorfschule-rosenheim.de",NULL,"1044",NULL
+"18","Freie Waldorfschule Weilheim","FWS Weilheim","3","Am Bahnhof 6, 82386 Huglfing","info@waldorf-weilheim.de",NULL,"1002",NULL
+"19","Freie Waldorfschule Wendelstein","FWS Wendelstein","3","In der Gibitzen 49, 90530 Wendelstein","info@waldorfschule-wendelstein.de",NULL,"1042",NULL
+"20","Freie Grund- und Mittelschule Wernstein","FWS Wernstein","3","Am Eisweiher 1, 95336 Mainleus","info@schule-wernstein.de",NULL,"1022",NULL
+"21","Freie Waldorfschule Würzburg","FWS Würzburg","3","Oberer Neubergweg 14, 97074 Würzburg","info@waldorf-wuerzburg.de","svk@waldorf-wuerzburg.de","1018",NULL
+"22","Freie Waldorfschule Aalen","FWS Aalen","2","Hirschbachstr. 64, 73431 Aalen","info@waldorfschule-aalen.de",NULL,"0",NULL
+"23","Freie Waldorfschule Backnang","FWS Backnang","2","Hohenheimer Str. 2071522 Backnang","info@waldorfschule-backnang.de",NULL,"0","Jedesto, CC BY-SA 4.0, via Wikimedia Commons"
+"24","Freie Waldorfschule Balingen-Frommern","FWS Balingen-Frommern","2","Hurdnagelstr. 372336 Balingen","info@waldorf-balingen.de",NULL,"0",NULL
+"25","Freie Waldorfschule Biberach","FWS Biberach","2","Rindenmooser Str. 1488400 Biberach","info@waldorfschule-biberach.de",NULL,"0",NULL
+"26","Freie Waldorfschule Böblingen","FWS Böblingen","2","Herdweg 16371032 Böblingen","waldorfschule@ws-bb.de",NULL,"0","Giftzwerg 88, CC BY-SA 3.0, via Wikimedia Commons"
+"27","Freie Waldorfschule Calw","FWS Calw","2","Eduard-Conz-Str. 3a75365 Calw","info@waldorfschulecalw.de",NULL,"0",NULL
+"28","Freie Waldorfschule Crailsheim","FWS Crailsheim","2","Burgbergstr. 46-5174564 Crailsheim","info@waldorfschule-crailsheim.de",NULL,"0",NULL
+"29","Freie Waldorfschule Dachsberg","FWS Dachsberg","2","Zum Bildsteinfelsen 2679875 Dachsberg","sekretariat@waldorfschule-dachsberg.de",NULL,"0",NULL
+"30","Freie Waldorfschule Emmendingen","FWS Emmendingen","2","Parkweg 2479312 Emmendingen","info@waldorfschule-emmendingen.de",NULL,"0",NULL
+"31","Freie Waldorfschule auf der Alb","FWS Alb","2","Freibühlstr. 172829 Engstingen","info@waldorf-alb.de",NULL,"0",NULL
+"32","Freie Waldorfschule Esslingen","FWS Esslingen","2","Weilstraße 9073734 Esslingen","info@waldorfschule-esslingen.de",NULL,"0","Roger Kreja, Stuttgart, CC BY-SA 3.0, via Wikimedia Commons"
+"33","Freie Waldorfschule Gutenhalde","FWS Gutenhalde","2","Gutenhalde 170794 Filderstadt","info@gutenhalde.de",NULL,"0",NULL
+"34","Michael-Schule Freiburg, Freie Schule für soziale und emotionale Entwicklung","Michael-Schule Freiburg","2","Kartäuserstr. 5579104 Freiburg","sekretariat.misvn@freiburger-schulen.bwl.de",NULL,"0",NULL
+"35","Freie Waldorfschule Freiburg-Rieselfeld","FWS Freiburg-Rieselfeld","2","Ingeborg-Drewitz-Allee 179111 Freiburg","sekretariat@fws-freiburg-rieselfeld.de",NULL,"0",NULL
+"36","Freie Waldorfschule Freiburg St. Georgen","FWS Freiburg St. Georgen","2","Bergiselstr. 1179111 Freiburg","info@fws-stg.de",NULL,"0",NULL
+"37","Freie Waldorfschule Freiburg-Wiehre","FWS Freiburg-Wiehre","2","Schwimmbadstrasse 2979100 Freiburg","sekretariat@waldorfschule-freiburg.de",NULL,"0",NULL
+"38","Freie Waldorfschule Freudenstadt","FWS Freudenstadt","2","Friedrich-List-Str. 1472250 Freudenstadt","info@fws-fds.de",NULL,"0",NULL
+"39","Freie Waldorfschule Filstal","FWS Filstal","2","Ahornstraße 4173035 Göppingen","info@waldorfschule-goeppingen.de",NULL,"0",NULL
+"40","Freie Waldorfschule Heidelberg","FWS Heidelberg","2","Mittelgewannweg 1669123 Heidelberg","info@waldorfschule-hd.de","","0",NULL
+"41","Freie Waldorfschule Heidenheim","FWS Heidenheim","2","Ziegelstraße 5089518 Heidenheim","verein@waldorfschule-heidenheim.de",NULL,"0",NULL
+"42","Freie Waldorfschule Heilbronn","FWS Heilbronn","2","Max-von-Laue-Straße 474081 Heilbronn","post@waldorfcampus-hn.de",NULL,"0",NULL
+"43","Freie Waldorfschule Karlsruhe","FWS Karlsruhe","2","Neisser Straße 276139 Karlsruhe","info@fws-ka.de",NULL,"0",NULL
+"44","Karl Stockmeyer Schule","Karl Stockmeyer Schule","2","Parzivalstr. 176139 Karlsruhe","info@parzival-schulzentrum.de",NULL,"0",NULL
+"45","Freie Waldorfschule Kirchheim Teck","FWS Kirchheim Teck","2","Fabrikstraße 33 + 3573230 Kirchheim","verwaltung@waldorfschule-kirchheim.de",NULL,"0",NULL
+"46","Schule am Belchen, Schule für Erziehungshilfe","FWS Belchen","2","Talstraße 1179692 Kleines Wiesental-Neuenweg","schule@hoefe-am-belchen.de",NULL,"0",NULL
+"47","Freie Waldorfschule Konstanz","FWS Konstanz","2","Robert-Bosch-Str. 378467 Konstanz","info@waldorfschule-konstanz.de",NULL,"0",NULL
+"48","Freie Waldorfschule Ludwigsburg Verein für ein Freies Schulwesen","FWS Ludwigsburg","2","Fröbelstr. 1671634 Ludwigsburg","info@fws-lb.de",NULL,"0",NULL
+"49","Freie Waldorfschule Lörrach","FWS Lörrach","2","Inzlingerstr. 5179540 Lörrach","schulbuero@fwsloe.de",NULL,"0",NULL
+"50","Odilienschule, Verein zur Förderung seelenpflege-bedürftiger Kinder","Odilienschule Mannheim","2","Kiesteichweg 1068199 Mannheim","kontakt@odilienschule-mannheim.de",NULL,"0",NULL
+"51","Freie Waldorfschule Mannheim","FWS Mannheim","2","Neckarauer Waldweg 13168199 Mannheim","info@waldorfschule-mannheim.de",NULL,"0",NULL
+"52","Freie Interkulturelle Waldorfschule Mannheim","FIWS Mannheim","2","Maybachstr. 1668169 Mannheim","info@fiw-mannheim.de",NULL,"0",NULL
+"53","Freie Waldorfschule Markgräflerland","FWS Markgräflerland","2","Am Zirkusplatz 179379 Müllheim","schule@waldorf-mgl.de",NULL,"0",NULL
+"54","Rudolf-Steiner-Schule Nürtingen","RSS Nürtingen","2","Am Lerchenberg 60-6872622 Nürtingen","info@waldorfschule-nuertingen.de",NULL,"0",NULL
+"55","Freie Waldorfschule Offenburg","FWS Offenburg","2","Moltkestr. 377654 Offenburg","info@waldorfschule-og.de",NULL,"0",NULL
+"56","Goetheschule, Freie Waldorfschule Pforzheim","FWS Pforzheim","2","Schwarzwaldstraße 6675173 Pforzheim","info@waldorfschule-pforzheim.de",NULL,"0",NULL
+"57","Freie Waldorfschule Rastatt","FWS Rastatt","2","Ludwig-Wilhelm-Str. 1076437 Rastatt","sekretariat@waldorfschule-rastatt.de",NULL,"0",NULL
+"58","Freie Waldorfschule Ravensburg","FWS Ravensburg","2","Meersburger Str. 14888213 Ravensburg","buero@waldorf-rv.de",NULL,"0",NULL
+"59","Freie Georgenschule Reutlingen","FGS Reutlingen","2","Moltkestraße 2972762 Reutlingen","info@freie-georgenschule.de",NULL,"0",NULL
+"60","Freie Waldorfschule Rottweil","FWS Rottweil","2","Steig 178628 Rottweil","info@waldorfschule-rottweil.de",NULL,"0",NULL
+"61","Freie Waldorfschule Schopfheim","FWS Schopfheim","2","Schlierbachstr. 2379650 Schopfheim","info@waldorfschuleschopfheim.de",NULL,"0","Louis Bafrance, CC BY 3.0, via Wikimedia Commons"
+"62","Freie Waldorfschule Schwäbisch Gmünd","FWS Schwäbisch Gmünd","2","Scheffoldstr.13673529 Schwäbisch Gmünd","info@fws-gd.de",NULL,"0",NULL
+"63","Freie Waldorfschule Schwäbisch Hall","FWS Schwäbisch Hall","2","Teurerweg 274523 Schwäbisch Hall","info@waldorfschule-hall.de",NULL,"0",NULL
+"64","Freie Waldorfschule Wahlwies","FWS Wahlwies","2","Am Maisenbühl 3078333 Stockach","schulbuero@waldorfschule-wahlwies.de",NULL,"0",NULL
+"65","Freie Waldorfschule am Kräherwald","FWS Kräherwald","2","Rudolf Steiner-Weg 1070192 Stuttgart","info@fkws.de",NULL,"0",NULL
+"66","Karl-Schubert-Schule Waldorfschule für seelenpflegebedürftige Kinder","Karl-Schubert-Schule","2","Obere Weinsteige 4070597 Stuttgart","info@karl-schubert-schule.de",NULL,"0",NULL
+"67","Michael Bauer Schule, Freie Waldorfschule mit Förderklassenbereich","Michael Bauer Schule","2","Othellostraße 570563 Stuttgart","info@michael-bauer-schule.de",NULL,"0",NULL
+"68","Freie Waldorfschule Silberwald","FWS Silberwald","2","Kemnater Str. 2170619 Stuttgart","info@silberwald.org",NULL,"0",NULL
+"69","Freie Waldorfschule Uhlandshöhe","FWS Uhlandshöhe","2","Haußmannstraße 4470188 Stuttgart","waldorfschule@uhlandshoehe.de",NULL,"0","Martin Hahn, CC0, via Wikimedia Commons"
+"70","Freie Waldorfschule Tübingen","FWS Tübingen","2","Rotdornweg 3072076 Tübingen","info@waldorfschule-tue.de",NULL,"0",NULL
+"71","Freie Waldorfschule Ulm","FWS Ulm","2","Römerstr. 9789077 Ulm","info@waldorfschule-ulm.de",NULL,"0",NULL
+"72","Freie Waldorfschule am Illerblick","FWS Illerblick","2","Unterer Kuhberg 2289077 Ulm","waldorfschule@illerblick.de",NULL,"0",NULL
+"73","Freie Waldorfschule Vaihingen/Enz","FWS Vaihingen","2","Steinbeisstr. 6571665 Vaihingen","info@waldorfschule-vaihingen.de",NULL,"0","Jonas H., CC BY-SA 2.0, via Wikimedia Commons"
+"74","Freie Waldorfschule Villingen-Schwenningen","FWS Villingen-Schwenningen","2","Schluchseestr. 5578054 Villingen-Schwenningen","info@waldorfschule-vs.de",NULL,"0",NULL
+"75","Freie Waldorfschule Wangen","FWS Wangen","2","Rudolf-Steiner-Str. 488239 Wangen","posteingang@waldorfschule-wangen.de",NULL,"0",NULL
+"76","Talander Schulgemeinschaft, Schule für Erziehungshilfe Sonderschule","Talander Schule","2","Christian-Fopp-Str. 488239 Wangen","info@talander-schule.de",NULL,"0",NULL
+"77","Freie Waldorfschule Engelberg","FWS Engelberg","2","Rudolf-Steiner-Weg 473650 Winterbach","info@engelberg.net",NULL,"0",NULL
+"78","Freie Waldorfschule Überlingen","FWS Überlingen","2","Rengoldshauser Str. 2088662 Überlingen","info@waldorfschule-ueberlingen.de",NULL,"0",NULL
